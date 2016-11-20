@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+#Author: badb0y17
 from socket import *
 import time, random, string
 import argparse, sys
