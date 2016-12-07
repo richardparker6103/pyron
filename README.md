@@ -1,5 +1,5 @@
 # pyron
-pyron.py is an DoS tool like Slow Denial of Service, slowloris and pyloris is someone like.This is script has written and coded by badb0y17
+pyron.py is an DoS Slow Denial of Service tool, slowloris and pyloris is someone like.This script has written and coded by badb0y17
 
 No peace for the system, flood and stress everything.
 
